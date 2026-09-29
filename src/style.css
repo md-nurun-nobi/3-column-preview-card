@@ -1,0 +1,18 @@
+@import "tailwindcss";
+
+@theme {
+
+--breakpoint-lg: 1024px;
+
+  --font-lexend-deca: "Lexend Deca", sans-serif;
+  --font-big-shoulders: "Big Shoulders", sans-serif;
+
+  --color-gold-500: hsl(31, 77%, 52%);
+  --color-cyan-800: hsl(184, 100%, 22%);
+  --color-green-950: hsl(179, 100%, 13%);
+
+  --color-white-75: hsla(0, 0%, 100%, 0.75);
+  --color-gray-100: hsl(0, 0%, 95%);
+
+}
+
